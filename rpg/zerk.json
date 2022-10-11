@@ -1,0 +1,17 @@
+{
+        "name": "zerk",
+        "strength": 15,
+        "intelligence": 8,
+        "wisdom": 13,
+        "dexterity": 12,
+        "constitution": 13,
+        "charisma": 15,
+        "race": "orc",
+        "role": "fighter",
+        "level": 4,
+        "hit_point_max": 27,
+        "movment": 17,
+        "armor": 13 ,
+        "xp ": 20,
+        "type": "fist"
+}

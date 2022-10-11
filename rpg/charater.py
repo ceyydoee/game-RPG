@@ -1,6 +1,6 @@
 class charachter():
     def __init__(self) :
-        self.name= "xae"
+        self.name= "zerk"
         self.strength = 0
         self.intelligence =0
         self.wisdom =0
